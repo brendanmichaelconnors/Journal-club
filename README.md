@@ -10,10 +10,11 @@
 
 _**Meetings**_
 
-**January 18, 2018 (PBS room 230)**
+**January 18, 2018 (9-10am)**
 
-- Paper:[Measuring fisheries performance using the “Goldilocks plot”](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsy138/5133277)
+- Paper: [Measuring fisheries performance using the “Goldilocks plot”](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsy138/5133277)
 - Lead: Brendan
+- Location: PBS room 230
 
 
 

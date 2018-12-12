@@ -3,7 +3,7 @@ DFO science journal club
 
 The general idea is a follows, the details of which are completely up for discussion: 
  
-**Who**: DFO staff (incl. postdocs) from PBS and IOS who are interested in discussing new literature, ideas, analytical tools and approaches, as well as (occasionally) engaging in collaborative research/side projects. See examples below of some recent papers that I thought might be interesting to discuss
+**Who**: DFO staff (incl. postdocs) from PBS and IOS who are interested in discussing new literature, ideas, analytical tools and approaches, as well as (occasionally) engaging in collaborative research/side projects. See examples below of some recent papers that I thought might be interesting to discuss.
 
 **What**: Rotating chair selects paper/topic and leads/instigates a group discussion in whatever format she/he deems appropriate.
 
@@ -11,7 +11,12 @@ The general idea is a follows, the details of which are completely up for discus
 
 **When**: 1 hr, preferably in the am, once per month, in the fall and winter (e.g., third Friday of each month)
 
+**Meetings**
+
+January 18,2018; paper:TBA; lead: Brendan
+
 **Possible papers for discussion**: 
+
 [Nonlinear dynamics and noise in fisheries recruitment: A global meta‐analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12304)
  
 [Fish reproductive-energy output increases disproportionately with body size](http://science.sciencemag.org/content/360/6389/642)

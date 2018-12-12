@@ -11,13 +11,14 @@ The general idea is a follows, the details of which are completely up for discus
 
 **When**: 1 hr, preferably in the am, once per month, in the fall and winter (e.g., third Friday of each month)
 
-##Meetings
+#Meetings
 
-###January 18, 2018 (PBS room 230)
+*January 18, 2018 (PBS room 230)*
+
 -Paper:[Measuring fisheries performance using the “Goldilocks plot”](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsy138/5133277)
 - Lead: Brendan
 
-**Possible papers for discussion**: 
+**Running list of possible papers for future meetings**: 
 
 [Nonlinear dynamics and noise in fisheries recruitment: A global meta‐analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12304)
  

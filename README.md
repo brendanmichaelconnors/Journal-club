@@ -10,10 +10,16 @@
 
 _**Meetings**_
 
-**January 18, 2018 (9-10am)**
+**February 22, 2019 (9-10am)**
+
+- Paper: [Nonlinear dynamics and noise in fisheries recruitment: A global meta‐analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12304)
+- Lead: Luke Rogers
+- Location: PBS room 230
+
+**January 18, 2019 (9-10am)**
 
 - Paper: [Measuring fisheries performance using the “Goldilocks plot”](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsy138/5133277)
-- Lead: Brendan
+- Lead: Brendan Connors
 - Location: PBS room 230
 
 
@@ -22,8 +28,6 @@ _**Meetings**_
 
 **Running list of possible papers for future meetings**: 
 
-[Nonlinear dynamics and noise in fisheries recruitment: A global meta‐analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12304)
- 
 [Fish reproductive-energy output increases disproportionately with body size](http://science.sciencemag.org/content/360/6389/642)
  
 [The assessment of fishery status depends on fish habitats](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12318)

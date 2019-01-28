@@ -23,10 +23,10 @@ _**Meetings**_
 - Location: PBS room 230
 
 
+-------------------------------------------------------------------------------------------------------------------
 
 
-
-**Running list of possible papers for future meetings**: 
+**Possible papers for future meetings**: 
 
 [Fish reproductive-energy output increases disproportionately with body size](http://science.sciencemag.org/content/360/6389/642)
  
@@ -40,4 +40,4 @@ _**Meetings**_
 
 [State-space models’ dirty little secrets](https://www.nature.com/articles/srep26677)
 
-[What is usable knowledge](http://www.nrcresearchpress.com/doi/abs/10.1139/cjfas-2017-0305#.W_Q2gYjwYuW)
+[What is usable knowledge?](http://www.nrcresearchpress.com/doi/abs/10.1139/cjfas-2017-0305#.W_Q2gYjwYuW)

@@ -7,6 +7,7 @@
 **Where**: PBS
 
 **When**: 1 hr, preferably in the am, once per month, in the fall and winter (e.g., third Friday of each month)
+
 -------------------------------------------------------------------------------------------------------------------
 
 _**Meetings**_

@@ -29,6 +29,7 @@ _**Meetings**_
 
 
 **Possible papers for future meetings**: 
+.[I can see clearly now: Reinterpreting statistical significance](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13159)
 
 [Fish reproductive-energy output increases disproportionately with body size](http://science.sciencemag.org/content/360/6389/642) and rebuttal [Limited impact of big fish mothers for population replenishment](http://www.nrcresearchpress.com/doi/full/10.1139/cjfas-2018-0354#.XE_f789KhE4)
  

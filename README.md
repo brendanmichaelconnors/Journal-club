@@ -40,6 +40,8 @@ _**Meetings**_
 
 [Fish reproductive-energy output increases disproportionately with body size](http://science.sciencemag.org/content/360/6389/642) and rebuttal [Limited impact of big fish mothers for population replenishment](http://www.nrcresearchpress.com/doi/full/10.1139/cjfas-2018-0354#.XE_f789KhE4)
  
+[Global foragefish recruitment dynamics: A comparison of methods, time-variation, and reverse causality](https://www.sciencedirect.com/science/article/pii/S0165783619300074)
+
 [The assessment of fishery status depends on fish habitats](https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12318)
  
 [Bottom trawl fishing footprints on the world’s continental shelves](http://www.pnas.org/content/115/43/E10275)
@@ -51,4 +53,6 @@ _**Meetings**_
 [What is usable knowledge?](http://www.nrcresearchpress.com/doi/abs/10.1139/cjfas-2017-0305#.W_Q2gYjwYuW)
 
 [Impacts of historical warming on marine fisheries production](https://doi.org/10.1126/science.aau1758)
+
+
 

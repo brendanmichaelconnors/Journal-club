@@ -11,6 +11,11 @@
 -------------------------------------------------------------------------------------------------------------------
 
 _**Meetings**_
+**May 10, 2019 (9-10am)**
+
+- Paper: TBA
+- Lead: Sean Anderson
+- Location: PBS room 230
 
 **April 5, 2019 (9-10am)**
 
@@ -54,5 +59,5 @@ _**Meetings**_
 
 [Impacts of historical warming on marine fisheries production](https://doi.org/10.1126/science.aau1758)
 
-
+[Accounting for shifting distributions and changing productivity in the development of scientific advice for fishery management](https://academic.oup.com/icesjms/advance-article-abstract/doi/10.1093/icesjms/fsz048/5474997)
 

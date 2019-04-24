@@ -14,7 +14,7 @@ _**Meetings**_
 
 **May 10, 2019 (9-10am)**
 
-- Paper: TBA
+- Paper: [Impacts of Historical Warming on Marine Fisheries Production](https://science.sciencemag.org/content/363/6430/979)
 - Lead: Sean Anderson
 - Location: PBS room 230
 

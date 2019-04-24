@@ -58,7 +58,6 @@ _**Meetings**_
 
 [What is usable knowledge?](http://www.nrcresearchpress.com/doi/abs/10.1139/cjfas-2017-0305#.W_Q2gYjwYuW)
 
-[Impacts of historical warming on marine fisheries production](https://doi.org/10.1126/science.aau1758)
 
 [Accounting for shifting distributions and changing productivity in the development of scientific advice for fishery management](https://academic.oup.com/icesjms/advance-article-abstract/doi/10.1093/icesjms/fsz048/5474997)
 

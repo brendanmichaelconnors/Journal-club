@@ -12,6 +12,12 @@
 
 _**Meetings**_
 
+**June 3, 2019 (9-10am)**
+
+- Paper: [Rank-normalization, folding, and localization: An improved R-hat for assessing convergence of MCMC](https://arxiv.org/abs/1903.08008)
+- Lead: Luke Rogers
+- Location: PBS room 230
+
 **May 10, 2019 (9-10am)**
 
 - Paper: [Impacts of Historical Warming on Marine Fisheries Production](https://science.sciencemag.org/content/363/6430/979)

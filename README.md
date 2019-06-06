@@ -1,6 +1,6 @@
 # Journal-club
 
-**Who**: DFO staff (incl. postdocs) from PBS and IOS who are interested in discussing new literature, ideas, analytical tools and approaches, as well as (occasionally) engaging in collaborative research/side projects. See examples below of some recent papers that I thought might be interesting to discuss.
+**Who**: DFO staff (incl. postdocs) from PBS and IOS who are interested in discussing new literature, ideas, analytical tools and approaches, as well as (occasionally) engaging in collaborative research/side projects. See examples below for papers that might be interesting to discuss.
 
 **What**: Rotating chair selects paper/topic and leads a group discussion in whatever format she/he deems appropriate.
 

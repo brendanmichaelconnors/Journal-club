@@ -67,3 +67,4 @@ _**Meetings**_
 
 [Accounting for shifting distributions and changing productivity in the development of scientific advice for fishery management](https://academic.oup.com/icesjms/advance-article-abstract/doi/10.1093/icesjms/fsz048/5474997)
 
+[Mapping the global network of fisheries science collaboration](https://onlinelibrary.wiley.com/doi/epdf/10.1111/faf.123797)

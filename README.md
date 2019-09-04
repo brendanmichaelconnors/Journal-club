@@ -12,6 +12,12 @@
 
 _**Meetings**_
 
+**September 24, 2019 (9-10am)**
+
+- Paper: [Rebuilding global fisheries under uncertainty](https://www.pnas.org/content/pnas/116/32/15985.full.pdf)
+- Lead: Brendan Connors
+- Location: PBS room 230
+
 **June 3, 2019 (9-10am)**
 
 - Paper: [Rank-normalization, folding, and localization: An improved R-hat for assessing convergence of MCMC](https://arxiv.org/abs/1903.08008)
@@ -47,8 +53,6 @@ _**Meetings**_
 
 
 **Possible papers for future meetings**: 
-
-[Rebuilding global fisheries under uncertainty](https://www.pnas.org/content/early/2019/07/16/1902657116)
 
 [I can see clearly now: Reinterpreting statistical significance](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13159)
 

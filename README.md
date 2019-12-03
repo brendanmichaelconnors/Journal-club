@@ -54,6 +54,8 @@ _**Meetings**_
 
 **Possible papers for future meetings**: 
 
+[Predicting recruitment density dependence and intrinsic growth rate for all fishes worldwide using a data‐integrated life‐history model](https://onlinelibrary.wiley.com/doi/abs/10.1111/faf.12427)
+
 [Modeling temporal variation in recruitment in fisheries stock assessment: A review of theory and practice](https://www.sciencedirect.com/science/article/abs/pii/S0165783618303564)
 
 [I can see clearly now: Reinterpreting statistical significance](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13159)

@@ -12,6 +12,12 @@
 
 _**Meetings**_
 
+**February 28, 2020 (9-10am)**
+
+- Paper: TBA
+- Lead: Brendan Connors
+- Location: PBS room 230
+
 **January 24, 2020 (9-10am)**
 
 - Paper: [Global forage fish recruitment dynamics: A comparison of methods, time-variation, and reverse causality](https://www.sciencedirect.com/science/article/abs/pii/S0165783619300074)

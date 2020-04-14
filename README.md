@@ -14,9 +14,9 @@ _**Meetings**_
 
 **February 28, 2020 (9-10am)**
 
-- Paper: TBA
+- Paper: [Effective fisheries management instrumental in improving fish stock status](https://www.pnas.org/content/117/4/2218)
 - Lead: Brendan Connors
-- Location: PBS room 230
+- Location: PBS tea room
 
 **January 24, 2020 (9-10am)**
 

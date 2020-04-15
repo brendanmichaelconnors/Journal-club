@@ -4,13 +4,19 @@
 
 **What**: Rotating chair selects paper/topic and leads a group discussion in whatever format she/he deems appropriate.
 
-**Where**: PBS
+**Where**: PBS (conference call during global pandemics)
 
 **When**: 1 hr, preferably in the am, once per month, in the fall and winter (e.g., third Friday of each month)
 
 -------------------------------------------------------------------------------------------------------------------
 
 _**Meetings**_
+
+**May 8, 2020 (9-10am)**
+
+- Paper: [A review of approaches to quantifying uncertainty in fisheries stock assessments](https://www.sciencedirect.com/science/article/abs/pii/S0165783620300205)
+- Lead: Carrie Holt
+- Location: Your home office (Zoom)
 
 **February 28, 2020 (9-10am)**
 

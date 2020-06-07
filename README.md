@@ -72,6 +72,8 @@ _**Meetings**_
 
 **Possible papers for future meetings**: 
 
+[Improving the communication and accessibility of stock assessment using interactive visualization tools](https://www.nrcresearchpress.com/doi/abs/10.1139/cjfas-2019-0424#.Xtz2GZ5KhE5)
+
 [Empirical orthogonal function regression: Linking population biology to spatial varying environmental conditions using climate projections](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15149)
 
 [Predicting recruitment density dependence and intrinsic growth rate for all fishes worldwide using a data‐integrated life‐history model](https://onlinelibrary.wiley.com/doi/abs/10.1111/faf.12427)
